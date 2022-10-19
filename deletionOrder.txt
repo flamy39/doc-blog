@@ -1,0 +1,4 @@
+messenger_messages
+doctrine_migration_versions
+article
+categorie
